@@ -1,0 +1,75 @@
+header{
+    background-color: darkgray;
+    text-align: center;
+    padding: 10px;
+    font-size: large;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+nav{
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    top: 140px;
+    left: 0px;
+    position: fixed;
+}
+a:hover{
+    background-color: aqua;
+}
+a:active{
+    background-color: red;
+}
+a:visited{
+    background-color: red;
+}
+a{
+    color: white;
+    padding: 5px;
+}
+footer{
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+}
+.home h2{
+    text-align: center;
+
+}
+.home{
+    border: solid 2px;
+    background: linear-gradient(white, grey);
+    top: 220px;
+    position: fixed;
+    height: 30%;
+    width: 100%;
+    
+} 
+.img img{
+    width: 320px;
+} 
+.img{
+    top: 480px;
+    position: fixed;
+    text-align: center;
+    justify-content: center;
+    padding-left: 20%;
+
+}                                                                                                                 
+button{
+    bottom: 50px;
+    width: 20%;
+    height: 3%;
+    border-radius: 5px;
+    text-align: center;
+    position: fixed;
+    
+}
